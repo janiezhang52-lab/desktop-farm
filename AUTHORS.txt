@@ -1,0 +1,13 @@
+桌面农场 · 溪畔双院
+由 Ningning 发起并主导，与 Codex 协作完成。
+Codex 是 AI 协作者，不是版权主体。
+Copyright © 2026 Ningning.
+
+本包为桌面农场 Mac 公开试玩版。
+官方介绍与下载：https://github.com/janiezhang52-lab/desktop-farm
+版本：0.23.1-preview.2
+程序为闭源成品，源码、制作工程和玩家的日常存档不在本包内。
+预设场景是可编辑的游戏初始内容，并非作者当前运行中的存档副本。
+本包使用本地 ad-hoc 签名；它不是 Apple Developer ID 身份认证，也未通过 Apple 公证。
+署名和校验值有助于核对来源，不能阻止他人复制或保证防止倒卖。
+美术包含 AI 辅助生成内容；署名不构成对每项素材独占权的保证。
